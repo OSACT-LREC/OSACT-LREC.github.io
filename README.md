@@ -1,1 +1,1 @@
-# OSACT6-LREC.github.io
+# OSACT-LREC.github.io
